@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "582720412525",
+    "project_id": "task-management-2bf93",
+    "storage_bucket": "task-management-2bf93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582720412525:android:34e8e934508b8145379864",
+        "android_client_info": {
+          "package_name": "com.example.nexudo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582720412525-c1co4msn8ibqshrhqbfnulv2ni78k281.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nexudo",
+            "certificate_hash": "dc6dbac7427927f60ee8d78b9ec470333a86dd08"
+          }
+        },
+        {
+          "client_id": "582720412525-a33i51mp2v7cfemnr3207idj0ftipvl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe8CKWvnZe0JW4uFNA9d8GkjxJFZ0fSTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582720412525-85786t3sakju4p923cbc4dmj9a1kknat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582720412525-c39ml6eptqvjkuvv3g06k6ujt3r9bagi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nexudo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
